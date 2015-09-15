@@ -1,0 +1,7 @@
+#!/usr/bin/ruby
+# a comment, this is so you can read you program later.
+# Anything after the # is ignored by Ruby.
+puts "i could code like this." # and the comment after is ignored
+#puts "this wont run"
+puts "This will run"
+

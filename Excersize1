@@ -1,0 +1,5 @@
+#!/usr/bin/ruby
+puts "hello world"
+puts "Hello Again"
+puts "I like typing like this"
+puts "So on and so forth"
